@@ -1,6 +1,0 @@
-Steps:
-
-1. Install opendrift ( https://opendrift.github.io/install.html )
-2. Create Copernicus marine account ( https://data.marine.copernicus.eu/register ) and put username and password into data download script at top
-3. Run download script to gather inputs
-4. Run analysis script to generate outputs
